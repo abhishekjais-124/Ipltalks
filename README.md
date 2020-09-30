@@ -15,6 +15,23 @@ It also has a Compare Team feature where you can track your favorite team's perf
 * The web app is reliable and easy to use.
 
 
+## Technologies Used
+```
+Vue
+Vue-CLI
+Vue-axios
+Node.js
+HTML
+CSS
+Javascript
+Bootstrap
+Bootstrap-vue
+Chart.js
+Chartkick
+SheetDB API
+
+```
+
 ## Project setup
 ```
 npm install
