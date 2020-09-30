@@ -42,13 +42,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Production link
 [IPLTALKS](https://ipltalkproject.herokuapp.com/#/)
+
+## Designed By
+[Abhishek Jaiswal](https://www.linkedin.com/in/abhishek-jaiswal-749b681a3/)
+
