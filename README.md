@@ -5,7 +5,7 @@ IPLTalks is a website designed to recall all those nail-biting matches.
 Get all your stats here from toss details to the man of the match winners. 
 It also has a Compare Team feature where you can track your favorite team's performance throughout the IPL season.
 
-# Some major points
+## Some major points
 * The app is made in vue.js. The whole page is divided into various major components such as header, carousel, footer,etc. All these components are attached to Home page by exporting and importing functions.The major app controls are controlled using the app.vue and main.js file. All the png, jpg and media files are stored in the assets and are binded using the vue v-bind directive.
 * Have controlled most of the toolwork using the standard tooling baseline, Vue CLI.
 * Have used chart.js with chartkick to show the graph between the IPL matches and the teams by filtering and using the data for the particular year. To watch the graph, just go to any IPL season from the homepage and click on the compare teams button.
@@ -47,10 +47,8 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Production link
+[IPLTALKS](https://ipltalkproject.herokuapp.com/#/)
