@@ -46,7 +46,7 @@ npm run serve
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Production link
-[IPLTALKS](https://ipltalkproject.herokuapp.com/#/)
+[https://ipltalkproject.herokuapp.com/#/](https://ipltalkproject.herokuapp.com/#/)
 
 ## Designed By
 [Abhishek Jaiswal](https://www.linkedin.com/in/abhishek-jaiswal-749b681a3/)
